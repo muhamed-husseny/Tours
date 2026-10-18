@@ -1,0 +1,543 @@
+[
+  {
+    "id": "dahab-adventure",
+    "slug": "dahab-blue-hole-adventure",
+    "category": "beaches",
+    "titleAr": "مغامرة دهب وثقب البلوهول الساحر - إقامة فندقية فاخرة",
+    "titleEn": "Dahab & Blue Hole Adventure - Luxury Hotel Stay",
+    "metaTitleAr": "رحلة دهب والبلوهول 4 أيام 3 ليالي | حجز من 6 أكتوبر والشيخ زايد",
+    "metaTitleEn": "Dahab & Blue Hole Adventure 4D3N | October & Zayed Booking",
+    "metaDescriptionAr": "برنامج سياحي متكامل إلى دهب يشمل رحلة البلوهول، شاطئ الكانيون، سفاري وادي جني، مع انتقالات حديثة من ميدان الحصري والشيخ زايد.",
+    "metaDescriptionEn": "Complete travel package to Dahab including Blue Hole, Canyon beach, Wadi Jinai safari, with modern transport from 6th of October & Sheikh Zayed.",
+    "price": 3850,
+    "discountPrice": 3200,
+    "currency": "EGP",
+    "durationDays": 4,
+    "durationNights": 3,
+    "destinationAr": "دهب، جنوب سيناء",
+    "destinationEn": "Dahab, South Sinai",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "hotelStars": 4,
+    "badgeAr": "الأكثر طلباً",
+    "badgeEn": "Best Seller",
+    "pickupAr": "نقطة التجمع: ميدان الحصري (أمام مسجد الحصري) ومول أركان بالشيخ زايد",
+    "pickupEn": "Pickup: Hosary Square (6th of October) & Arkan Plaza (Sheikh Zayed)",
+    "coverImage": "/tourism-images/Dahab/cover.webp?v=5",
+    "gallery": [
+      "/tourism-images/Dahab/hero1.webp?v=5"
+    ],
+    "includesAr": [
+      "انتقالات ذهاب وعودة بأتوبيسات مرسيدس 600 حديثة ومكيفة من 6 أكتوبر والشيخ زايد",
+      "إقامة 4 أيام / 3 ليالي بفندق 4 نجوم ديلوكس شامل الإفطار والعشاء بوفيه مفتوح",
+      "رحلة البلوهول وسيارات الدفع الرباعي 4x4 مع معدات السنوركلينج كاملة",
+      "سهرة بدوية في وادي الطويلات شاملة العشاء والمشروبات وحفلة التراث",
+      "جولة حرة في الممشى السياحي ولاجونا بيتش وخور الساحل",
+      "مشرف ومصور محترف مرافق طوال أيام الرحلة مجاناً"
+    ],
+    "includesEn": [
+      "Roundtrip transport in modern AC Mercedes buses from 6th of October & Sheikh Zayed",
+      "4 Days / 3 Nights at a 4-star Deluxe Hotel with daily open buffet breakfast & dinner",
+      "Blue Hole safari trip with 4x4 jeeps & full snorkeling gear provided",
+      "Bedouin night at Wadi El-Twillat with traditional dinner & cultural musical show",
+      "Free walking tour in Dahab Promenade, Laguna Beach, and local artisan markets",
+      "Professional tour coordinator & complimentary photographer throughout the trip"
+    ],
+    "excludesAr": [
+      "المصروفات الشخصية والطلبات الخاصة خارج البرنامج",
+      "الأنشطة الاختيارية (دايفنج احترافي، بيتش باجي سفاري وادي قني)",
+      "الغداء والمشروبات الغازية أثناء التنقلات"
+    ],
+    "excludesEn": [
+      "Personal expenses and off-program orders",
+      "Optional activities (professional scuba diving, quad biking safari in Wadi Ginai)",
+      "Lunch and soft drinks during transport stops"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "titleAr": "الانطلاق من أكتوبر وزايد والوصول لدهب",
+        "titleEn": "Departure from October/Zayed & Arrival in Dahab",
+        "descAr": "التجمع الساعة 11 مساءً عند ميدان الحصري وميدان جهينة وأركان بلازا بالشيخ زايد. السفر بحافلات VIP مكيفة والوصول صباحاً لدهب، تسكين الغرف والاسترخاء على الشاطئ، ثم جولة مسائية في ممشى دهب السياحي.",
+        "descEn": "Meet at 11:00 PM at Hosary Square, Juhayna, and Arkan Plaza. Travel via luxury AC bus, morning arrival in Dahab, check-in, beach relaxation, followed by an evening stroll along Dahab's famous sea promenade."
+      },
+      {
+        "day": 2,
+        "titleAr": "مغامرة البلوهول الشهير وكانين دهب",
+        "titleEn": "World-Famous Blue Hole & Dahab Canyon Adventure",
+        "descAr": "بعد الإفطار، الانطلاق بسيارات لاندكروزر 4x4 إلى محمية البلوهول أروع بقاع الغطس بالعالم، وقضاء يوم ممتع مع السنوركلينج والغداء، ثم زيارة الكانيون الطبيعي والتقاط صور تذكارية.",
+        "descEn": "After breakfast, head out in 4x4 jeeps to the iconic Blue Hole marine reserve, snorkel among vibrant coral reefs, enjoy seaside lunch, and explore the dramatic canyon formations."
+      },
+      {
+        "day": 3,
+        "titleAr": "شاطئ اللاجونا وسهرة وادي الطويلات البدوية",
+        "titleEn": "Laguna Beach & Wadi El-Twillat Bedouin Night",
+        "descAr": "صباح مخصص للرياضات المائية وشاطئ لاجونا ذو الرمال الذهبية والمياه الفيروزية. وعند الغروب التوجه لوادي الطويلات بين الجبال لسهرة بدوية ساحرة مع الشاي بالحبق ومأكولات المندي البدوي.",
+        "descEn": "Morning at Laguna Beach with golden sands and crystal-clear waters for swimming and watersports. At sunset, head to Wadi El-Twillat mountains for Bedouin hospitality, Mandi dinner, and stargazing."
+      },
+      {
+        "day": 4,
+        "titleAr": "جولة التسوق والعودة بسلامة الله إلى أكتوبر",
+        "titleEn": "Local Souk Shopping & Return to 6th of October",
+        "descAr": "تناول وجبة الإفطار بالفندق وتسليم الغرف، شراء الهدايا التذكارية والفضة والزيوت السيناوية الطبيعية، ثم بدء رحلة العودة والوصول مساءً إلى الشيخ زايد و6 أكتوبر.",
+        "descEn": "Breakfast buffet and check-out. Leisurely shopping for authentic handmade crafts, silver, and herbal teas. Board the bus back to Sheikh Zayed and 6th of October arriving safely by evening."
+      }
+    ]
+  },
+  {
+    "id": "sharm-el-sheikh-relax",
+    "slug": "sharm-el-sheikh-aqua-park-relax",
+    "category": "beaches",
+    "titleAr": "شرم الشيخ 5 نجوم - أكوا بارك وخدمة ألترا شاملة كلياً",
+    "titleEn": "Sharm El Sheikh 5-Star Aqua Park Relax - Ultra All Inclusive",
+    "metaTitleAr": "عرض شرم الشيخ 5 نجوم 4 أيام 3 ليالي شامل كلياً | حجز مباشر",
+    "metaTitleEn": "Sharm El Sheikh 5-Star 4D3N Ultra All Inclusive Package",
+    "metaDescriptionAr": "استمتع بإجازة عائلية مريحة في أرقى منتجعات شرم الشيخ 5 نجوم مع أكبر مدينة ألعاب مائية، وجبات ومشروبات 24 ساعة، وانتقالات من أكتوبر وزايد.",
+    "metaDescriptionEn": "Enjoy a luxurious family escape to Sharm El Sheikh at a 5-star resort with mega aqua park, 24/7 all-inclusive dining, and pickup from October and Zayed.",
+    "price": 6400,
+    "discountPrice": 5350,
+    "currency": "EGP",
+    "durationDays": 4,
+    "durationNights": 3,
+    "destinationAr": "شرم الشيخ، خليج نبق",
+    "destinationEn": "Sharm El Sheikh, Nabq Bay",
+    "rating": 4.95,
+    "reviewCount": 184,
+    "hotelStars": 5,
+    "badgeAr": "شامل كلياً Hard All Inclusive",
+    "badgeEn": "Ultra All Inclusive",
+    "pickupAr": "التجمع: أمام هايبر وان الشيخ زايد ومول العرب البوابة 1",
+    "pickupEn": "Pickup: Hyper One (Sheikh Zayed) & Mall of Arabia Gate 1",
+    "coverImage": "/tourism-images/Sharm/cover.webp?v=5",
+    "gallery": [
+      "/tourism-images/Sharm/hero1.webp?v=5",
+      "/tourism-images/Sharm/hero2.webp?v=5"
+    ],
+    "includesAr": [
+      "إقامة 4 أيام / 3 ليالي في منتجع 5 نجوم صف أول على البحر بخليج نبق",
+      "نظام إقامة شامل كلياً (إفطار + غداء + عشاء + وجبات خفيفة + مشروبات 24 ساعة)",
+      "دخول مجاني غير محدود لأكبر أكوا بارك عملاقة داخل الفندق تضم 28 زحليقة",
+      "انتقالات خاصة بحافلات سياحية حديثة ومكيفة من وإلى أكتوبر والشيخ زايد",
+      "حفلات وسهرات الفندق اليومية وبرامج الترفيه والأنيميشن للأطفال والكبار",
+      "جولة مجانية لخليج نعمة وسوهو سكوير والنافورة الراقصة"
+    ],
+    "includesEn": [
+      "4 Days / 3 Nights at a 5-star Beachfront Luxury Resort in Nabq Bay",
+      "Hard All-Inclusive dining (breakfast, lunch, dinner, snacks, and 24/7 beverages)",
+      "Unlimited free access to the mega Aqua Park featuring 28 slides and wave pools",
+      "Luxury roundtrip bus transport from 6th of October and Sheikh Zayed",
+      "Daily international shows, live musical entertainment, and kids club animation",
+      "Complimentary evening trip to Naama Bay, Soho Square, and the Dancing Fountain"
+    ],
+    "excludesAr": [
+      "رحلة اليخت البحري إلى محمية رأس محمد وجزيرة تيران (اختياري)",
+      "خدمات السبا والجاكوزي والمساج داخل المنتجع",
+      "رياضات المياه الآلية مثل الباراشوت والبانانا بوت"
+    ],
+    "excludesEn": [
+      "Optional luxury yacht cruise to Ras Mohamed Reserve & Tiran Island",
+      "Spa, jacuzzi, and massage treatments at the resort wellness center",
+      "Motorized watersports (parasailing, banana boat, jet ski)"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "titleAr": "الوصول لشرم الشيخ واستقبال VIP بالمنتجع",
+        "titleEn": "Arrival in Sharm & VIP Welcome at Resort",
+        "descAr": "التحرك صباحاً والوصول للمنتجع، الترحيب بالمشروبات المنعشة وسوار الشامل كلياً. استلام الغرف المطلة على حمامات السباحة أو البحر، والاستمتاع بالأكوا بارك والبوفيه المفتوح.",
+        "descEn": "Morning bus departure from Zayed/October. Check-in with welcome drinks and all-inclusive wristband. Relax in pool/sea view rooms and dive into the water park slides."
+      },
+      {
+        "day": 2,
+        "titleAr": "يوم البحر والأكوا بارك وسهرة سوهو سكوير",
+        "titleEn": "Aqua Park Excitement & Soho Square Evening",
+        "descAr": "يوم كامل للاستمتاع بشاطئ البحر الخاص، الشعاب المرجانية، ومسابقات فريق الترفيه، تليها جولة مسائية منظمة إلى سوهو سكوير لمشاهدة عروض النافورة الراقصة والتسوق.",
+        "descEn": "Spend the day enjoying private coral reef beach, heated pools, and aqua activities. Evening excursion to Soho Square to witness the synchronized dancing fountains and open-air cafes."
+      },
+      {
+        "day": 3,
+        "titleAr": "سفاري موتوسيكلات الصحراء وسهرة خليج نعمة",
+        "titleEn": "Desert Quad Safari & Naama Bay Stroll",
+        "descAr": "رحلة سفاري اختيارية وقت شروق أو غروب الشمس بين جبال سيناء وصوت صدى الصوت، ثم الاستمتاع بالمساء في خليج نعمة والمقاهي العريقة والمطاعم السياحية.",
+        "descEn": "Optional sunrise or sunset ATV quad safari through Sinai valleys and Echo Mountain. Night outing to lively Naama Bay for shopping, traditional cafes, and seaside dining."
+      },
+      {
+        "day": 4,
+        "titleAr": "صباح استرخاء والعودة لمدينة 6 أكتوبر",
+        "titleEn": "Leisurely Morning & Return Journey",
+        "descAr": "إفطار ممتع بالبوفيه، سباحة أخيرة في حمام السباحة، ثم المغادرة بحافلاتنا المريحة والعودة سالمين إلى الشيخ زايد وأكتوبر.",
+        "descEn": "Enjoy late breakfast, a final swim under the warm sun, check-out at 12:00 PM, and return in comfort to Sheikh Zayed and 6th of October."
+      }
+    ]
+  },
+  {
+    "id": "hurghada-giftun-island",
+    "slug": "hurghada-giftun-island-magic",
+    "category": "beaches",
+    "titleAr": "سحر الغردقة وجزيرة الجفتون - منتجع ديلوكس 5 نجوم",
+    "titleEn": "Hurghada & Giftun Island Magic - 5-Star Deluxe Resort",
+    "metaTitleAr": "رحلة الغردقة وجزيرة الجفتون 4 أيام 3 ليالي | إقامة شاملة كلياً",
+    "metaTitleEn": "Hurghada & Giftun Island Magic 4D3N | Deluxe Resort Package",
+    "metaDescriptionAr": "استكشف مياه البحر الأحمر الكريستالية برحلة بحرية فاخرة إلى جزيرة الجفتون ومحمية أورانج باي، مع إقامة 5 نجوم شاملة كلياً بالكامل.",
+    "metaDescriptionEn": "Discover turquoise Red Sea waters with a luxury yacht trip to Giftun Island and Orange Bay, paired with a 5-star all-inclusive resort stay.",
+    "price": 5900,
+    "discountPrice": 4900,
+    "currency": "EGP",
+    "durationDays": 4,
+    "durationNights": 3,
+    "destinationAr": "الغردقة، البحر الأحمر",
+    "destinationEn": "Hurghada, Red Sea",
+    "rating": 4.92,
+    "reviewCount": 142,
+    "hotelStars": 5,
+    "badgeAr": "رحلة يخت مجانية",
+    "badgeEn": "Free Yacht Trip",
+    "pickupAr": "التجمع: ميدان الحصري بأكتوبر وأمام كابيتال بيزنس بارك زايد",
+    "pickupEn": "Pickup: Hosary Square (6th of October) & Capital Business Park (Zayed)",
+    "coverImage": "/tourism-images/Hurgada/cover.webp?v=5",
+    "gallery": [
+      "/tourism-images/Hurgada/hero1.webp?v=5",
+      "/tourism-images/Hurgada/hero2.webp?v=5"
+    ],
+    "includesAr": [
+      "إقامة 4 أيام / 3 ليالي بمنتجع 5 نجوم فاخر على شاطئ البحر مباشرة",
+      "شامل كلياً: وجبات إفطار وغداء وعشاء بوفيه مفتوح مع سناكس ومشروبات طوال اليوم",
+      "رحلة بحرية مجانية بيخت VIP إلى جزيرة الجفتون ومحمية أورانج باي شاملة الغداء البحري",
+      "انتقالات ذهاب وعودة بأحدث حافلات مرسيدس السياحية من أكتوبر وزايد",
+      "معدات السنوركلينج وسترات النجاة وإرشاد بحري محترف",
+      "جولة حرة في مارينا الغردقة والشارع السياحي الشيراتون"
+    ],
+    "includesEn": [
+      "4 Days / 3 Nights at a beachfront 5-star luxury resort",
+      "All-Inclusive dining: open buffet meals, snacks, juices, and hot/cold drinks all day",
+      "Complimentary VIP full-day yacht cruise to Giftun Island & Orange Bay with seafood lunch",
+      "Roundtrip transport in top-tier Mercedes motorcoaches from October & Zayed",
+      "Snorkeling gear, life vests, and certified marine guide assistance included",
+      "Evening leisure tour of Hurghada Marina promenade and Sheraton boulevard"
+    ],
+    "excludesAr": [
+      "رسوم دخول جزيرة باراديس الخاصة (اختياري)",
+      "رياضة ركوب الأمواج الشراعية وركوب البراشوت",
+      "المصروفات الشخصية والطلبات خارج القائمة المحددة"
+    ],
+    "excludesEn": [
+      "Paradise Island special entrance fee (optional)",
+      "Kitesurfing, parasailing, and jet-skiing fees",
+      "Personal shopping and out-of-program expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "titleAr": "الانطلاق والوصول للغردقة ومارينا اليخوت",
+        "titleEn": "Departure, Resort Check-in & Hurghada Marina",
+        "descAr": "التحرك براحة تامة في حافلات سياحية مكيفة، الوصول للغردقة، استلام الغرف وتناول الغداء اللذيذ، ثم الاسترخاء على الشاطئ والتمتع بمساء رائع في مارينا اليخوت العالمية.",
+        "descEn": "Smooth morning bus departure, hotel check-in and buffet lunch. Spend the afternoon by the private lagoon and enjoy an evening visit to Hurghada New Marina."
+      },
+      {
+        "day": 2,
+        "titleAr": "رحلة اليخت لجزيرة الجفتون وأورانج باي المالديفية",
+        "titleEn": "Full Day VIP Yacht Cruise to Giftun & Orange Bay",
+        "descAr": "الإبحار صباحاً على متن يخت فاخر، وقفتين للسنوركلينج وسط أندر الشعاب والأسماك الملونة، النزول على رمال أورانج باي الساحرة (مالديف مصر)، وتناول وجبة غداء طازجة ومشروبات على اليخت.",
+        "descEn": "Board a premium double-deck yacht for a full day on the Red Sea. Two guided snorkeling stops along virgin coral reefs, landing on Orange Bay beach, and a freshly prepared seafood & grill buffet on board."
+      },
+      {
+        "day": 3,
+        "titleAr": "ألعاب مائية وسفاري صحراوي وحفل فلكلوري",
+        "titleEn": "Watersports, Desert Safari & Folkloric Dinner",
+        "descAr": "صباح ممتع في مسابح الفندق وألعاب الأكوا بارك، وفي فترة العصر رحلة سفاري صحراوي بسيارات الدفع الرباعي والموتوسيكلات وسط الكثبان الذهبية وعشاء بدوي تحت النجوم.",
+        "descEn": "Poolside relaxation and water sports in the morning. Late afternoon quad biking safari through Red Sea sand dunes culminating in Bedouin tea, barbecue, and Tanoura performance."
+      },
+      {
+        "day": 4,
+        "titleAr": "التسوق والعودة بسلام إلى الشيخ زايد وأكتوبر",
+        "titleEn": "Souvenirs Shopping & Return Home",
+        "descAr": "تناول وجبة الإفطار بالفندق وتسليم الغرف، شراء الأسماك الطازجة أو التحف التذكارية من سوق الغردقة القديم، ثم رحلة العودة السريعة والمريحة إلى زايد وأكتوبر.",
+        "descEn": "Final breakfast buffet, check-out, brief stop at local fish and artisan markets, and a smooth journey back to Sheikh Zayed and 6th of October."
+      }
+    ]
+  },
+  {
+    "id": "luxor-heritage-trip",
+    "slug": "luxor-heritage-temples-adventure",
+    "category": "luxor",
+    "titleAr": "رحلة الأقصر الساحرة وعاصمة الحضارة - إقامة فندقية فاخرة ومزارات المعابد",
+    "titleEn": "Luxor Heritage & Ancient Temples Trip - Luxury Hotel Stay",
+    "metaTitleAr": "رحلة الأقصر 4 أيام 3 ليالي | حجز من 6 أكتوبر والشيخ زايد",
+    "metaTitleEn": "Luxor Trip 4D3N Ancient Temples Tour | October Tours",
+    "metaDescriptionAr": "برنامج رحلة الأقصر المتكامل يشمل الإقامة الفندقية 5 نجوم، زيارة معبد الكرنك، معبد الأقصر، وادي الملوك، حتشبسوت، وجولة نيلية بالفلوكة مع انتقالات مريحة من أكتوبر وزايد.",
+    "metaDescriptionEn": "Comprehensive Luxor trip package including 5-star hotel stay, Karnak Temple, Luxor Temple, Valley of the Kings, Hatshepsut, and Nile felucca tour with pickup from October & Zayed.",
+    "price": 6800,
+    "discountPrice": 5700,
+    "currency": "EGP",
+    "durationDays": 4,
+    "durationNights": 3,
+    "destinationAr": "الأقصر، صعيد مصر",
+    "destinationEn": "Luxor, Upper Egypt",
+    "rating": 4.97,
+    "reviewCount": 112,
+    "hotelStars": 5,
+    "badgeAr": "رحلة الأقصر المميزة",
+    "badgeEn": "Luxor Heritage Trip",
+    "pickupAr": "التجمع والانطلاق: خدمة الانتقال لمحطة القطار أو مطار القاهرة أو السفر المباشر من الشيخ زايد وأكتوبر",
+    "pickupEn": "Pickup & Transfer from Sheikh Zayed & 6th of October directly to Station / Airport",
+    "coverImage": "/tourism-images/Luxor/cover.webp?v=5",
+    "gallery": [
+      "/tourism-images/Luxor/hero1.webp?v=5",
+      "/tourism-images/Luxor/hero2.webp?v=5"
+    ],
+    "includesAr": [
+      "إقامة 4 أيام / 3 ليالي بفندق 5 نجوم ديلوكس على ضفاف النيل بالأقصر شامل الإفطار والعشاء بوفيه مفتوح",
+      "تذاكر ورسوم دخول جميع المزارات الأثرية: معبد الكرنك، معبد الأقصر، وادي الملوك، ومعبد حتشبسوت",
+      "مرشد سياحي مصري متخصص في علم المصريات مرافق طوال الجولات والمعالم التاريخية",
+      "جولة نيلية ساحرة بالفلوكة وقت الغروب وزيارة جزيرة الموز",
+      "انتقالات سياحية مكيفة حديثة لجميع المزارات والمعابد داخل الأقصر",
+      "خدمة استقبال وتوصيل خاصة لسكان 6 أكتوبر والشيخ زايد"
+    ],
+    "includesEn": [
+      "4 Days / 3 Nights at a 5-star Deluxe Riverside Hotel in Luxor with daily open buffet breakfast & dinner",
+      "Entrance tickets to all iconic sights: Karnak Temple, Luxor Temple, Valley of the Kings, and Hatshepsut",
+      "Accompanying certified Egyptologist tour guide sharing historical insights on all tours",
+      "Scenic sunset Nile felucca boat ride with a visit to Banana Island",
+      "Modern air-conditioned coach transfers for all temple visits and city tours",
+      "Private meet, greet, and transfer assistance for 6th of October & Sheikh Zayed residents"
+    ],
+    "excludesAr": [
+      "رحلة المنطاد الساخن (البالون الطائر) فوق معابد الأقصر وقت الشروق (اختياري بسعر تفضيلي)",
+      "تذكرة دخول مقبرة الملك توت عنخ آمون داخل وادي الملوك",
+      "المصروفات الشخصية والوجبات الإضافية خارج البرنامج"
+    ],
+    "excludesEn": [
+      "Sunrise hot air balloon flight over Luxor's West Bank temples (optional at special rate)",
+      "King Tutankhamun tomb special entry ticket inside the Valley of the Kings",
+      "Personal expenses and off-program meals"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "titleAr": "الوصول للأقصر والتسكين وزيارة معبد الأقصر المضاء ليلاً",
+        "titleEn": "Arrival in Luxor, Hotel Check-in & Evening Luxor Temple",
+        "descAr": "الوصول لمدينة الأقصر والتسكين بفندق الـ 5 نجوم المطل على النيل وتناول الغداء. وفي المساء زيارة معبد الأقصر وهو مضاء بشكل ساحر، ثم جولة حرة في كورنيش النيل.",
+        "descEn": "Arrival in Luxor, check-in at the 5-star Nile-front hotel, and afternoon relaxation. In the evening, visit the illuminated Luxor Temple followed by a scenic stroll along the Nile Corniche."
+      },
+      {
+        "day": 2,
+        "titleAr": "البر الغربي الأسطوري: وادي الملوك ومعبد حتشبسوت وتمثالي ممنون",
+        "titleEn": "Legendary West Bank: Valley of the Kings, Hatshepsut & Memnon",
+        "descAr": "الانطلاق صباحاً لعبور النيل إلى البر الغربي، استكشاف مقابر ملوك الفراعنة في وادي الملوك، وزيارة معبد الدير البحري للملكة حتشبسوت وتمثالي ممنون العملاقين.",
+        "descEn": "Cross the Nile to the West Bank to explore the royal tombs of Pharaohs in the Valley of the Kings, followed by the terraced Temple of Queen Hatshepsut and the giant Colossi of Memnon."
+      },
+      {
+        "day": 3,
+        "titleAr": "مجمع معابد الكرنك العظيم وجولة الفلوكة النيلية عند الغروب",
+        "titleEn": "Gigantic Karnak Temple Complex & Sunset Nile Felucca Tour",
+        "descAr": "زيارة صرح الكرنك أكبر دور عبادة في العالم القديم وصالة الأعمدة الكبرى الخالدة، وعصراً الإبحار بالفلوكة الشراعية النيلية الهادئة والاستمتاع بغروب الشمس الأسطوري بالأقصر.",
+        "descEn": "Explore Karnak Temple, the largest religious complex of the ancient world with its hypostyle hall of 134 towering columns. In late afternoon, sail on a traditional felucca under a golden sunset."
+      },
+      {
+        "day": 4,
+        "titleAr": "سوق الأقصر التراثي والعودة بسلام إلى الشيخ زايد وأكتوبر",
+        "titleEn": "Luxor Artisan Souk Shopping & Journey Back to Zayed & October",
+        "descAr": "إفطار لذيذ بالفندق وتسليم الغرف، جولة تسوق في سوق الأقصر لشراء الهدايا التذكارية وأوراق البردي والألباستر والزيوت العطرية، ثم بدء رحلة العودة المريحة إلى زايد وأكتوبر.",
+        "descEn": "Buffet breakfast and check-out. Leisurely shopping in Luxor souk for papyrus, alabaster crafts, and natural oils, followed by smooth return transfer back to Sheikh Zayed and 6th of October."
+      }
+    ]
+  },
+  {
+    "id": "vip-umrah-direct-flight",
+    "slug": "elite-vip-umrah-direct-flight",
+    "category": "umrah",
+    "flexibleDuration": true,
+    "durationTextAr": "مواعيد ومدد مرنة حسب الطلب",
+    "durationTextEn": "Flexible dates & durations",
+    "titleAr": "عمرة النخبة VIP - طيران مباشر وفنادق 5 نجوم على ساحة الحرم",
+    "titleEn": "Elite VIP Umrah Package Direct Flight - 5-Star Haram Frontage",
+    "metaTitleAr": "برنامج عمرة VIP طيران مباشر - مواعيد مرنة | فرع 6 أكتوبر والشيخ زايد",
+    "metaTitleEn": "Elite VIP Umrah Direct Flight Package - Flexible Dates | October Tours",
+    "metaDescriptionAr": "برنامج عمرة متكامل ومميز بإشراف كامل: طيران مباشر، إقامة 5 نجوم صف أول أمام الحرم المكي والحرم النبوي، قطار الحرمين السريع، وتأشيرة فورية بمدد مرنة.",
+    "metaDescriptionEn": "Exclusive VIP Umrah package featuring direct flights, 5-star frontage hotels overlooking the Holy Harams in Makkah & Madinah, Haramain High Speed Rail, and flexible durations.",
+    "price": 42000,
+    "discountPrice": 37500,
+    "currency": "EGP",
+    "durationDays": 0,
+    "durationNights": 0,
+    "destinationAr": "مكة المكرمة والمدينة المنورة",
+    "destinationEn": "Makkah & Madinah, Saudi Arabia",
+    "rating": 5.0,
+    "reviewCount": 215,
+    "hotelStars": 5,
+    "badgeAr": "صف أول أمام الحرم",
+    "badgeEn": "Haram View 5-Star",
+    "pickupAr": "خدمة التوصيل من المنازل بـ 6 أكتوبر والشيخ زايد بسيارات ليموزين خاصة إلى صالة المطار",
+    "pickupEn": "Home pickup in 6th of October & Sheikh Zayed via private limousine to Cairo Airport",
+    "coverImage": "/tourism-images/Macca/cover.webp?v=5",
+    "gallery": [
+      "/tourism-images/Macca/hero1.webp?v=5",
+      "/tourism-images/Macca/hero2.webp?v=5",
+      "/tourism-images/Macca/hero3.webp?v=5"
+    ],
+    "includesAr": [
+      "تأشيرة العمرة الإلكترونية الفورية ووثيقة التأمين الطبي الشامل المعتمد",
+      "تذاكر الطيران ذهاب وعودة (مباشر) على متن خطوط مصر للطيران أو الخطوط السعودية",
+      "إقامة فندقية فاخرة 5 نجوم صف أول بمكة المكرمة والمدينة المنورة مع مرونة كاملة في تحديد عدد الليالي",
+      "تذاكر قطار الحرمين السريع درجة رجال الأعمال VIP بين مكة والمدينة",
+      "زيارات ومزارات تاريخية: غار حراء، غار ثور، جبل أحد، مسجد قباء ومسجد القبلتين مع شيوخ أفاضل",
+      "هدية المعتمر: حقيبة سفر متكاملة، كتيب مناسك العمرة، ومياه زمزم 5 لتر معبأة",
+      "خدمة نقل خاصة من المنازل في 6 أكتوبر والشيخ زايد إلى صالة المطار مباشرة"
+    ],
+    "includesEn": [
+      "Instant Electronic Umrah Visa & accredited comprehensive medical health insurance",
+      "Direct roundtrip flights via EgyptAir or Saudia Airlines with flexible baggage allowance",
+      "Luxury 5-star hotel accommodation in Makkah & Madinah with full flexibility in duration and dates",
+      "VIP Business Class tickets on the Haramain High-Speed Railway between Makkah & Madinah",
+      "Guided historical Ziyarat tours: Jabal Al-Noor, Cave of Thawr, Mount Uhud, Quba Mosque, and Qiblatayn",
+      "Pilgrim gift pack: travel bag, prayer guide, and sealed 5L Zamzam holy water",
+      "Door-to-door private limousine transfer from 6th of October & Zayed directly to Cairo Airport"
+    ],
+    "excludesAr": [
+      "وجبات الغداء والعشاء (ما لم تكن مضافة باقة خاصة حسب طلب المعتمر)",
+      "المصروفات الشخصية والمشتريات والهدايا الخاصة",
+      "فحوصات أو تطعيمات طبية إضافية خاصة"
+    ],
+    "excludesEn": [
+      "Lunch and dinner meals (can be upgraded to full board upon request)",
+      "Personal purchases, telecom SIM cards, and personal gifts",
+      "Any extra individual medical tests or optional vaccinations"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "titleAr": "المرحلة الأولى: التأشيرة وتذاكر الطيران المباشر والاستقبال",
+        "titleEn": "Phase 1: Visa Issuance, Direct Flight & VIP Airport Reception",
+        "descAr": "الانتقال بسيارات ليموزين خاصة من 6 أكتوبر وزايد إلى مطار القاهرة، السفر المباشر إلى جدة، والانتقال بأتوبيسات VIP إلى فندق مكة المقابل لساحة الحرم، وأداء مناسك العمرة المباركة بصحبة مرشد ديني متخصص.",
+        "descEn": "Door-to-door airport limousine transfer, direct flight to Jeddah, VIP coach to the 5-star hotel in Makkah, and performing the sacred Umrah rituals guided by an experienced religious scholar."
+      },
+      {
+        "day": 2,
+        "titleAr": "المرحلة الثانية: الإقامة والصلوات في الحرم المكي الشريف",
+        "titleEn": "Phase 2: Accommodation & Devotion at the Grand Mosque",
+        "descAr": "الاستفادة من الإقامة الفندقية الفاخرة المطلة مباشرة على الحرم المكي، والسكينة الإيمانية في رحاب الكعبة المشرفة مع حرية اختيار أوقات الصلوات والزيارات.",
+        "descEn": "Enjoying premier 5-star accommodation directly facing the Grand Mosque, peaceful prayers and Tawaf at the Kaaba with effortless proximity."
+      },
+      {
+        "day": 3,
+        "titleAr": "المرحلة الثالثة: جولة مزارات مكة المكرمة التاريخية والمشاعر",
+        "titleEn": "Phase 3: Historic Makkah Ziyarat Excursion",
+        "descAr": "جولة صباحية إيمانية لزيارة المشاعر المقدسة (منى، عرفات، ومزدلفة)، والتوقف عند جبل النور وغار حراء وغار ثور وسماع القصص النبوية الشريفة مع فضيلة الشيخ المرافق.",
+        "descEn": "Morning guided pilgrimage tour to holy sites: Mina, Arafat, Muzdalifah, Mount Al-Noor, and Cave of Thawr, accompanied by inspiring historical narrations from our tour scholar."
+      },
+      {
+        "day": 4,
+        "titleAr": "المرحلة الرابعة: قطار الحرمين السريع والإقامة بالمدينة المنورة",
+        "titleEn": "Phase 4: Haramain Bullet Train Ride to Madinah Al-Munawwarah",
+        "descAr": "تسجيل الخروج من مكة، ركوب قطار الحرمين السريع في تجربة أوروبية فائقة السرعة، الوصول لطيبة الطيبة والنزول بفندق الـ 5 نجوم المطل على المسجد النبوي الشريف والسلام على رسول الله ﷺ.",
+        "descEn": "Board the state-of-the-art Haramain High-Speed Bullet Train for a swift comfortable journey to Madinah, settling into our 5-star hotel and giving Salam at the Rawdah."
+      },
+      {
+        "day": 5,
+        "titleAr": "المرحلة الخامسة: زيارة الروضة الشريفة ومزارات المدينة وتيسير العودة",
+        "titleEn": "Phase 5: Rawdah Prayers, Madinah Ziyarat & Effortless Return",
+        "descAr": "الصلاة في الروضة الشريفة بتصريح مؤكد، وجولة لزيارة مسجد قباء وجبل أحد، ثم الانتقال لصالة المطار لرحلة العودة بسلامة الله والتوصيل لمنازلكم بأكتوبر وزايد.",
+        "descEn": "Confirmed authorized prayer entry to the Noble Rawdah, visits to Masjid Quba and Mount Uhud, followed by smooth airport transfer and return flight home."
+      }
+    ]
+  },
+  {
+    "id": "dubai-magical-package",
+    "slug": "dubai-magical-package-flights-visa",
+    "category": "international",
+    "flexibleDuration": true,
+    "durationTextAr": "مواعيد ومدد مرنة حسب الطلب",
+    "durationTextEn": "Flexible dates & durations",
+    "titleAr": "دبي الساحرة - شامل تذاكر الطيران، التأشيرة، وأرقى الفنادق",
+    "titleEn": "Magical Dubai Package - Flights, Visa & Luxury Hotel",
+    "metaTitleAr": "بكج رحلة دبي شامل الطيران والتأشيرة - مدد مرنة | أكتوبر تورز",
+    "metaTitleEn": "Magical Dubai Package with Flights & Visa - Flexible Dates | October Tours",
+    "metaDescriptionAr": "سافر إلى دبي بأفضل سعر من أكتوبر والشيخ زايد: تذاكر طيران دولية، تأشيرة سياحية، فندق 4 نجوم فاخر في قلب المدينة، سفاري الصحراء، وبرج خليفة بمدد مرنة.",
+    "metaDescriptionEn": "Travel to dazzling Dubai with direct flights, tourist visa, 4-star city center hotel, Desert Safari with BBQ dinner, and Burj Khalifa & Dubai Mall tours.",
+    "price": 28500,
+    "discountPrice": 24900,
+    "currency": "EGP",
+    "durationDays": 0,
+    "durationNights": 0,
+    "destinationAr": "دبي، الإمارات العربية المتحدة",
+    "destinationEn": "Dubai, United Arab Emirates",
+    "rating": 4.96,
+    "reviewCount": 167,
+    "hotelStars": 4,
+    "badgeAr": "شامل الطيران والتأشيرة",
+    "badgeEn": "Flights & Visa Included",
+    "pickupAr": "انتقال خاص من مدينة 6 أكتوبر والشيخ زايد إلى مطار القاهرة الدولي بسيارة فاخرة",
+    "pickupEn": "Private transfer from 6th of October & Sheikh Zayed to Cairo International Airport",
+    "coverImage": "/tourism-images/Dubai/cover.webp?v=5",
+    "gallery": [
+      "/tourism-images/Dubai/hero1.webp?v=5",
+      "/tourism-images/Dubai/hero2.webp?v=5",
+      "/tourism-images/Dubai/hero3.webp?v=5"
+    ],
+    "includesAr": [
+      "تذاكر الطيران الدولية ذهاب وعودة من القاهرة إلى مطار دبي الدولي",
+      "إصدار التأشيرة السياحية للإمارات مع وثيقة التأمين الصحي الدولي",
+      "إقامة فندقية ديلوكس 4 نجوم في دبي مارينا أو الخليج التجاري شامل الإفطار بمدد ومواعيد مرنة حسب الرغبة",
+      "انتقالات المطار في دبي (استقبال وتوديع بسيارات حديثة خاصة)",
+      "رحلة سفاري الصحراء بسيارات لاندكروزر 4x4 مع عشاء باربكيو وحفل رقص شرقي وعروض نارية",
+      "جولة سياحية شاملة في دبي: دبي مارينا، برج خليفة، دبي مول، والنافورة الراقصة",
+      "مرشد سياحي مرافق طوال البرنامج لتقديم المساعدة والاستشارات"
+    ],
+    "includesEn": [
+      "Roundtrip international flight tickets from Cairo to Dubai International Airport",
+      "UAE Tourist Visa issuance with international travel & health medical insurance",
+      "Deluxe 4-star hotel stay in Dubai Marina or Business Bay with flexible dates and durations upon request",
+      "Airport transfers in Dubai (VIP private meet, greet, and hotel drop-off)",
+      "Desert Safari adventure in 4x4 Land Cruisers with dune bashing, BBQ dinner & live shows",
+      "Full Dubai City Tour: Dubai Marina, Burj Khalifa area, Dubai Mall, and Dancing Fountains",
+      "Dedicated tour leader available for support, recommendations, and assistance"
+    ],
+    "excludesAr": [
+      "تذاكر الصعود لقمة برج خليفة الطابق 124 (اختياري يمكن إضافتها)",
+      "رسوم ضريبة السياحة والدرهم السياحي بالفندق (تدفع مباشرة عند الدخول)",
+      "وجبات الغداء والمشتريات الشخصية"
+    ],
+    "excludesEn": [
+      "Burj Khalifa 'At the Top' 124th floor observation deck tickets (optional add-on)",
+      "Dubai Tourism Dirham hotel tax (payable directly at hotel reception)",
+      "Lunch meals and personal shopping"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "titleAr": "المرحلة الأولى: إجراءات التأشيرة وتذاكر الطيران والاستقبال الخاص بدبي",
+        "titleEn": "Phase 1: Visa, International Flights & Private Airport Meet & Greet",
+        "descAr": "التوصيل من أكتوبر وزايد للمطار، السفر لدبي، استقبال مندوبنا بالمطار ونقلكم للفندق الفاخر، استلام الغرف، وجولة مسائية حرة في دبي مارينا وعين دبي.",
+        "descEn": "Transfer to Cairo airport, flight to Dubai, warm reception by our local team, transfer to hotel, and an evening stroll along Dubai Marina and Ain Dubai."
+      },
+      {
+        "day": 2,
+        "titleAr": "المرحلة الثانية: جولة معالم دبي العصرية وبرج خليفة والنافورة",
+        "titleEn": "Phase 2: Modern Dubai Tour, Burj Khalifa & Dancing Fountains",
+        "descAr": "جولة سياحية تبدأ من شاطئ جميرا وبرج العرب، مروراً بمتحف المستقبل الأيقوني، والوصول لدبي مول لمشاهدة عروض النافورة الراقصة وبرج خليفة الشاهق.",
+        "descEn": "City tour highlighting Jumeirah Beach, Burj Al Arab photo stop, Museum of the Future exterior, and the afternoon at Dubai Mall with dazzling Burj Khalifa fountain shows."
+      },
+      {
+        "day": 3,
+        "titleAr": "المرحلة الثالثة: مغامرة سفاري الصحراء وعشاء المشويات الفاخر",
+        "titleEn": "Phase 3: 4x4 Desert Safari & Bedouin BBQ Night",
+        "descAr": "صباح حر للتسوق أو الشاطئ. في الساعة 3 عصراً الانطلاق بسيارات 4x4 للتطعيس بين الرمال الحمراء، ركوب الجمال، التزلج على الرمال، وعشاء شواء فاخر مع عروض السيرك والنار.",
+        "descEn": "Leisurely morning. At 3:00 PM, 4x4 Land Cruisers pick you up for thrilling dune bashing in red desert sands, sandboarding, camel rides, and a sumptuous open-air BBQ feast under the stars."
+      },
+      {
+        "day": 4,
+        "titleAr": "المرحلة الرابعة: أنشطة ترفيهية حرة (القرية العالمية أو أتلانتس دبي)",
+        "titleEn": "Phase 4: Leisure Activities / Global Village or Atlantis Aquaventure",
+        "descAr": "يوم حر للاستمتاع بحدائق أتلانتس المائية أو زيارة القرية العالمية (Global Village) واستكشاف أجنحة 90 دولة وثقافاتها المتنوعة وتذوق أشهى المأكولات العالمية.",
+        "descEn": "A free day to explore Atlantis The Palm, Aquaventure waterpark, or experience the magical pavilions and culinary wonders of Global Village."
+      },
+      {
+        "day": 5,
+        "titleAr": "المرحلة الخامسة: جولة التسوق الأخيرة والتوديع والعودة للقاهرة",
+        "titleEn": "Phase 5: Traditional Souks, Farewell & Return Flight",
+        "descAr": "إفطار الصباح وتسجيل الخروج، جولة في سوق الذهب وسوق التوابل العريق في ديرة، ثم الانتقال للمطار لرحلة العودة بسلامة الله إلى أرض الوطن واستقبالكم للعودة لزايد وأكتوبر.",
+        "descEn": "Breakfast, check-out, visit to the traditional Deira Gold and Spice Souk, transfer to Dubai International Airport, and flight home with pickup back to Zayed & 6th of October."
+      }
+    ]
+  }
+]
